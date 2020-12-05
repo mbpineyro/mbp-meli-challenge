@@ -17,7 +17,7 @@ Proyecto creado con el siguiente stack tecnológico:
 Instalar dependencias, desde la raíz del proyecto:
 
 ```
-npm i
+npm istall
 ```
 
 ### Inicializando servidores
