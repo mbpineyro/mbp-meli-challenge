@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Proyecto creado con el siguientes stack tecnológico:
+Proyecto creado con el siguiente stack tecnológico:
 
 ● Cliente:
 ○ HTML
